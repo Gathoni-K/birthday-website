@@ -1,3 +1,15 @@
+@import "tailwindcss";
+
+
+@theme {
+    --font-family-sans: 'Space Grotesk', sans-serif;
+    --font-family-cinzel: 'Cinzel Decorative', serif;
+    --font-family-dancing: 'Dancing Script', cursive;
+    --font-family-allura: 'Allura', cursive;
+    --font-family-caveat: 'Caveat Brush', cursive;
+    --font-family-satisfy: 'Satisfy', cursive;
+    --font-family-vibes: 'Great Vibes', cursive;
+}
 body, #root {
     margin: 0;
     padding: 0;
