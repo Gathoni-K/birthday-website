@@ -4,14 +4,19 @@ import Card from "../components/LettersPage/Card";
 
 const loves = [
   "Your laugh,it makes everything lighter.",
-  "The way you think before you speak.",
-  "How you're ever curious about my world, ",
-  "I love that you notice the little things",
-  "The way you always listen, even when I ramble.",
-  "Your handwriting, show-off, cause why you writing better than a typewriter.",
-  "Your sense of style, walking around like you want me to get you pregnant, smh.",
   "Your brains, Einstein who?! Clearly they haven't met you.",
+  "How you're ever curious about my world, ",
+  "Your handwriting, show-off, cause why you writing better than a typewriter.",
+  "The way you think before you speak.",
+  "The way you always listen, even when I ramble.",
+  "I like it when you sing-along to songs, I have said this once and I'll say it again, I think I just found my favorite sound",
+  "Your sense of style, walking around like you want me to get you pregnant, smh.",
   "How you smell good all the damn time, atp kijana panda kitanda.",
+  "I love that you notice the little things",
+  "The time and effort you put into grooming yourself, such a turn on tbh",
+  "How you're patient with me and my poor texting habits,I am genuinely sorry for going ghost 90% of the time.",
+  
+
   
 ];
 
